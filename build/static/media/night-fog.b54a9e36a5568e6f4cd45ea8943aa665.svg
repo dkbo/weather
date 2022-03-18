@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="125px" height="119.77869px" viewBox="0 0 125 119.77869" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="night-fog" transform="translate(1.5 1.5)">
+    <path d="M93.1331 78.5673C75.8723 77.1252 60.1977 67.9339 50.5152 53.5769C40.8327 39.22 38.1877 21.2475 43.3237 4.71121C43.6303 3.71776 43.2854 2.63854 42.4594 2.0068C41.6334 1.37505 40.5012 1.32451 39.6222 1.88015C18.7951 13.8722 7.7019 37.6113 11.8675 61.2742C16.0331 84.9372 34.5668 103.464 58.2379 107.629C81.9091 111.793 105.656 100.703 117.653 79.8835C118.173 79.0066 118.104 77.9009 117.479 77.0953C116.854 76.2896 115.8 75.9477 114.821 76.233C107.808 78.3924 100.445 79.1849 93.1331 78.5673Z" id="Path" fill="#EFCC00" stroke="none" />
+    <path d="M110 89.5529C97.9621 89.5529 83.0887 89.5529 82.641 89.5529C66.2 88.4992 51.3271 79.5081 42.8462 65.4957L13 65.4957C18.3971 85.3853 34.2338 100.812 54.3778 105.803C74.5219 110.794 95.8104 104.565 110 89.5282L110 89.5529Z" id="Path" fill="#E0E0E0" stroke="none" />
+    <path d="M46 65.4957L9 65.4957" id="Path" fill="none" fill-rule="evenodd" stroke="#B9C1C6" stroke-width="3" stroke-linecap="round" />
+    <path d="M6 78.4957L30 78.4957" id="Path" fill="none" fill-rule="evenodd" stroke="#B9C1C6" stroke-width="3" stroke-linecap="round" />
+    <path d="M2 90.4957L117 90.4957" id="Path" fill="none" fill-rule="evenodd" stroke="#B9C1C6" stroke-width="3" stroke-linecap="round" />
+    <path d="M68 103.496L121 103.496" id="Path" fill="none" fill-rule="evenodd" stroke="#A5A9AA" stroke-width="3" stroke-linecap="round" />
+    <path d="M12 103.496L50 103.496" id="Path" fill="none" fill-rule="evenodd" stroke="#B9C1C6" stroke-width="3" stroke-linecap="round" />
+    <path d="M48 115.496L96 115.496" id="Path" fill="none" fill-rule="evenodd" stroke="#A5A9AA" stroke-width="3" stroke-linecap="round" />
+    <path d="M22 115.496L33 115.496" id="Path" fill="none" fill-rule="evenodd" stroke="#A5A9AA" stroke-width="3" stroke-linecap="round" />
+    <path d="M44 78.4957L60 78.4957" id="Path" fill="none" fill-rule="evenodd" stroke="#B9C1C6" stroke-width="3" stroke-linecap="round" />
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="145px" height="148px" viewBox="0 0 145 148" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0.24361704" y1="1.0425714" x2="0.6364216" y2="0.26228648" id="gradient_1">
+      <stop offset="0%" stop-color="#F2F2F2" />
+      <stop offset="100%" stop-color="#CFCFCF" />
+    </linearGradient>
+    <linearGradient x1="0.7044546" y1="0.32227927" x2="0.12488677" y2="0.8263723" id="gradient_2">
+      <stop offset="2%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <g id="day-cloudy-fog" transform="translate(1.5 1.5)">
+    <path d="M84.5 82.6579C101.897 82.6579 116 68.5548 116 51.1579C116 33.7609 101.897 19.6579 84.5 19.6579C67.103 19.6579 53 33.7609 53 51.1579C53 68.5548 67.103 82.6579 84.5 82.6579Z" id="Oval" fill="#EFCC00" stroke="none" />
+    <path d="M84 0.657856L84 11.6579" id="Path" fill="none" fill-rule="evenodd" stroke="#EFCC00" stroke-width="3" stroke-linecap="round" />
+    <path d="M84 89.6579L84 100.658" id="Path" fill="none" fill-rule="evenodd" stroke="#EFCC00" stroke-width="3" stroke-linecap="round" />
+    <path d="M34 50.6579L45 50.6579" id="Path" fill="none" fill-rule="evenodd" stroke="#EFCC00" stroke-width="3" stroke-linecap="round" />
+    <path d="M123 50.6579L134 50.6579" id="Path" fill="none" fill-rule="evenodd" stroke="#EFCC00" stroke-width="3" stroke-linecap="round" />
+    <path d="M49 15.6579L57 23.6579" id="Path" fill="none" fill-rule="evenodd" stroke="#EFCC00" stroke-width="3" stroke-linecap="round" />
+    <path d="M112 77.6579L120 85.6579" id="Path" fill="none" fill-rule="evenodd" stroke="#EFCC00" stroke-width="3" stroke-linecap="round" />
+    <path d="M49 85.6579L57 77.6579" id="Path" fill="none" fill-rule="evenodd" stroke="#EFCC00" stroke-width="3" stroke-linecap="round" />
+    <path d="M112 23.6579L120 15.6579" id="Path" fill="none" fill-rule="evenodd" stroke="#EFCC00" stroke-width="3" stroke-linecap="round" />
+    <path d="M43.676 35.6579C59.8901 35.6252 74.7865 44.5461 82.3604 58.8248C94.8398 51.5578 110.553 52.8589 121.657 62.0786C132.76 71.2982 136.871 86.4592 131.939 99.9926C127.006 113.526 114.087 122.53 99.6312 122.509L43.676 122.658C19.5544 122.658 2.21669e-15 103.182 0 79.1579C-2.21669e-15 55.1335 19.5544 35.6579 43.676 35.6579Z" id="Path" fill="url(#gradient_1)" stroke="none" />
+    <path d="M132.367 97.3624C137.458 79.1901 126.814 60.3427 108.594 55.2654C90.3731 50.1882 71.4758 60.8039 66.3852 78.9762C61.2945 97.1485 71.9383 115.996 90.1587 121.073C108.379 126.15 127.276 115.535 132.367 97.3624Z" id="Oval" fill="url(#gradient_2)" stroke="none" />
+    <path d="M80 131.658L105 131.658" id="Path" fill="none" fill-rule="evenodd" stroke="#A5A9AA" stroke-width="3" stroke-linecap="round" />
+    <path d="M25 131.658L67 131.658" id="Path" fill="none" fill-rule="evenodd" stroke="#B9C1C6" stroke-width="3" stroke-linecap="round" />
+    <path d="M68 143.658L96 143.658" id="Path" fill="none" fill-rule="evenodd" stroke="#A5A9AA" stroke-width="3" stroke-linecap="round" />
+    <path d="M35 143.658L54 143.658" id="Path" fill="none" fill-rule="evenodd" stroke="#A5A9AA" stroke-width="3" stroke-linecap="round" />
+  </g>
+</svg>
