@@ -1,0 +1,102 @@
+@import '~antd/dist/antd.css';
+
+body {
+  font-family: Helvetica Neue;
+
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(to top, #FFFFFF, #E1F2F8);
+}
+
+.ant-card-head {
+  margin-top: 16px;
+  padding-left: 40.5px;
+
+}
+.ant-card-head-title {
+  font-size: 32px;
+  color: #0079AF;
+}
+
+.listTable {
+  width: 80vw;
+  height: 80vh;
+  overflow: auto;
+}
+.detailTable {
+  max-width: initial;
+  margin: 0 -24px -24px -24px;
+}
+.listTable .ant-table-selection {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.ant-table-thead > tr > th {
+  background: #DCF2F8;
+  color: #2E99C9;
+  font-weight: bold;
+}
+
+.ant-table-thead th.ant-table-column-has-sorters:hover, .ant-table-thead th.ant-table-column-sort {
+  background: #CBECF5;
+}
+.ant-card-bordered {
+  border-radius: 16px;
+  border: none;
+  box-shadow: 0px 3px 10px #0000001A;
+}
+
+.modal-left  {
+  padding-top: 30px;
+  padding-left: 36px;
+}
+/* 彈窗 */
+.modal-title {
+  font-size: 48px;
+}
+
+.modal-wheather {
+  font-size: 32px;
+}
+
+.modal-temp {
+  font-size: 128px;
+}
+.modal-temp::after {
+  content: '°C';
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-size: 53px;
+}
+.modal-leftbottom  {
+  display: flex;
+  font-size: 24px;
+  line-height: 200%;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.modal-leftbottom div {
+  width: 100%;
+}
+.modal-leftbottom img  {
+  width: 32px;
+  margin-right: 31px;
+  margin-left: 31px;
+}
+
+.modal-right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-right img {
+  width: 60%;
+}

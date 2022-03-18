@@ -1,0 +1,11 @@
+### 局屬氣象站-現在天氣觀測報告
+GET https://opendata.cwb.gov.tw/api/v1/rest/datastore/O-A0003-001?Authorization=CWB-839E91C6-2394-4ADF-BCC1-59A32A79D274 HTTP/1.1
+content-type:application/json;charset=UTF-8
+
+### 天氣預報
+GET https://opendata.cwb.gov.tw/api/v1/rest/datastore/F-C0032-001?Authorization=CWB-839E91C6-2394-4ADF-BCC1-59A32A79D274 HTTP/1.1
+content-type:application/json;charset=UTF-8
+
+### 日出日沒時刻-全臺各縣市年度逐日日出日沒時刻資料
+GET https://opendata.cwb.gov.tw/api/v1/rest/datastore/A-B0062-001?Authorization=CWB-839E91C6-2394-4ADF-BCC1-59A32A79D274 HTTP/1.1
+content-type:application/json;charset=UTF-8

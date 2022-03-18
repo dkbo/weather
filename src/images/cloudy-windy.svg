@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="144px" height="119.77869px" viewBox="0 0 144 119.77869" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0.2446447" y1="1.0425714" x2="0.637305" y2="0.26228574" id="gradient_1">
+      <stop offset="0%" stop-color="#F2F2F2" />
+      <stop offset="100%" stop-color="#CFCFCF" />
+    </linearGradient>
+    <linearGradient x1="0.7044546" y1="0.32227927" x2="0.12488677" y2="0.8263723" id="gradient_2">
+      <stop offset="2%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <g id="cloudy-windy" transform="translate(1.5 1.5)">
+    <path d="M43.4579 2.08074C59.5185 2.07568 74.2631 10.9927 81.7653 25.2476C94.1601 17.9733 109.769 19.2858 120.785 28.5285C131.802 37.7713 135.858 52.9579 130.927 66.4936C125.995 80.0292 113.135 89.0048 98.7771 88.9316L43.3341 89.0807C19.4014 89.0807 2.19934e-15 69.6051 0 45.5807C-2.19934e-15 21.5564 19.4014 2.08074 43.3341 2.08074L43.4579 2.08074Z" id="Path" fill="url(#gradient_1)" stroke="none" />
+    <path d="M131.841 64.0902C136.896 45.9179 126.327 27.0704 108.235 21.9932C90.1433 16.916 71.379 27.5317 66.3242 45.704C61.2694 63.8763 71.8382 82.7237 89.9303 87.801C108.022 92.8782 126.787 82.2625 131.841 64.0902Z" id="Oval" fill="url(#gradient_2)" stroke="none" />
+    <path d="M92.8483 78.0807C96.2578 78.121 99.0002 80.8555 99 84.2147L99 84.2147C99 87.6024 96.2123 90.3486 92.7736 90.3486L40.4717 90.3486C36.3452 90.3486 33 93.6442 33 97.7094L33 97.7094C33 101.775 36.3452 105.07 40.4717 105.07L89.6604 105.07C92.4114 105.07 94.6415 107.267 94.6415 109.977L94.6415 110.174C94.6415 112.884 92.4114 115.081 89.6604 115.081L85.3019 115.081" id="Path" fill="none" fill-rule="evenodd" stroke="#A5A9AA" stroke-width="3" stroke-linecap="round" />
+    <path d="M113 111.081C115.761 111.081 118 108.842 118 106.081L118 106.081C118 103.319 115.761 101.081 113 101.081L103 101.081" id="Path" fill="none" fill-rule="evenodd" stroke="#B9C1C6" stroke-width="3" stroke-linecap="round" />
+  </g>
+</svg>

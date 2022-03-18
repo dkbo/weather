@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="145px" height="117.29407px" viewBox="0 0 145 117.29407" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0.2446447" y1="1.0425714" x2="0.637305" y2="0.26228574" id="gradient_1">
+      <stop offset="0%" stop-color="#F2F2F2" />
+      <stop offset="100%" stop-color="#CFCFCF" />
+    </linearGradient>
+    <linearGradient x1="0.7044546" y1="0.32227927" x2="0.125237" y2="0.8264702" id="gradient_2">
+      <stop offset="2%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <g id="cloudy-foggy" transform="translate(1.5 1.5)">
+    <path d="M43.7847 2.22892C59.966 2.22386 74.8214 11.1408 82.3801 25.3958C94.868 18.1215 110.594 19.4339 121.693 28.6767C132.793 37.9195 136.88 53.1061 131.911 66.6418C126.942 80.1774 113.985 89.153 99.5198 89.0798L43.66 89.2289C19.5472 89.2289 2.21588e-15 69.7533 0 45.7289C-2.21588e-15 21.7045 19.5472 2.22892 43.66 2.22892L43.7847 2.22892Z" id="Path" fill="url(#gradient_1)" stroke="none" />
+    <path d="M132.776 64.0902C137.867 45.9179 127.223 27.0704 109.003 21.9932C90.7826 16.916 71.8853 27.5317 66.7946 45.704C61.704 63.8763 72.3477 82.7237 90.5681 87.801C108.788 92.8782 127.686 82.2625 132.776 64.0902Z" id="Oval" fill="url(#gradient_2)" stroke="none" />
+    <path d="M80 100.229L105 100.229" id="Path" fill="none" fill-rule="evenodd" stroke="#A5A9AA" stroke-width="3" stroke-linecap="round" />
+    <path d="M25 100.229L67 100.229" id="Path" fill="none" fill-rule="evenodd" stroke="#B9C1C6" stroke-width="3" stroke-linecap="round" />
+    <path d="M68 113.229L96 113.229" id="Path" fill="none" fill-rule="evenodd" stroke="#A5A9AA" stroke-width="3" stroke-linecap="round" />
+    <path d="M35 113.229L54 113.229" id="Path" fill="none" fill-rule="evenodd" stroke="#A5A9AA" stroke-width="3" stroke-linecap="round" />
+  </g>
+</svg>

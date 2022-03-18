@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="144px" height="124.29407px" viewBox="0 0 144 124.29407" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="2682820---forecast-hail-rain-snow-stones-storm-weather" transform="translate(5 5)">
+    <path d="M124.5 71.3514C128.642 71.3514 132 67.9935 132 63.8514C132 59.7093 128.642 56.3514 124.5 56.3514C120.358 56.3514 117 59.7093 117 63.8514C117 67.9935 120.358 71.3514 124.5 71.3514Z" id="Oval" fill="#C4C4C4" stroke="none" />
+    <path d="M1 98.3514L133 98.3514" id="Path" fill="none" fill-rule="evenodd" stroke="#0D98FF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M19 113.351L108 113.351" id="Path" fill="none" fill-rule="evenodd" stroke="#0D98FF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M49 16.3514L49 81.3514C43.3175 74.5799 36.1329 69.184 28 65.5795" id="Path" fill="none" fill-rule="evenodd" stroke="#0BAEFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M83 26.3514L83 81.3514C83 81.3514 91.8093 65.6477 109 65.5981" id="Path" fill="none" fill-rule="evenodd" stroke="#0BAEFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M9.5 68.3514C13.6421 68.3514 17 64.9935 17 60.8514C17 56.7093 13.6421 53.3514 9.5 53.3514C5.35786 53.3514 2 56.7093 2 60.8514C2 64.9935 5.35786 68.3514 9.5 68.3514Z" id="Oval" fill="#C4C4C4" stroke="none" />
+    <path d="M66 1.3514L66 33.3514" id="Path" fill="none" fill-rule="evenodd" stroke="#0BAEFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M66 51.3514L66 73.3514" id="Path" fill="none" fill-rule="evenodd" stroke="#0BAEFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>

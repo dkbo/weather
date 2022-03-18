@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="119px" height="92px" viewBox="0 0 119 92" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="windy" transform="translate(2.5 2.5)">
+    <path d="M0 59.5725L65.4936 59.5725C72.953 59.5725 79 65.6167 79 73.0725L79 73.0725C79 80.5284 72.953 86.5725 65.4936 86.5725" id="Path" fill="none" fill-rule="evenodd" stroke="#A5A9AA" stroke-width="5" stroke-linecap="round" />
+    <path d="M79.3239 0.572511C84.1156 0.572511 88 4.37809 88 9.07251L88 9.07251C88 13.7669 84.1156 17.5725 79.3239 17.5725L0 17.5725" id="Path" fill="none" fill-rule="evenodd" stroke="#A5A9AA" stroke-width="5" stroke-linecap="round" />
+    <path d="M77 40.5725L107.488 40.5725C111.084 40.5725 114 43.4881 114 47.0847L114 47.0847C113.987 50.6718 111.075 53.5725 107.488 53.5725" id="Path" fill="none" fill-rule="evenodd" stroke="#B9C1C6" stroke-width="5" stroke-linecap="round" />
+    <path d="M42 39.5725L62 39.5725" id="Path" fill="none" fill-rule="evenodd" stroke="#A5A9AA" stroke-width="5" stroke-linecap="round" />
+    <path d="M0 39.5725L27 39.5725" id="Path" fill="#D8D8D8" fill-rule="evenodd" stroke="#B9C1C6" stroke-width="5" stroke-linecap="round" />
+  </g>
+</svg>

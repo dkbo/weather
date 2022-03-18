@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="140.5824px" height="94.93261px" viewBox="0 0 140.5824 94.93261" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0.75624675" y1="1.0425714" x2="0.3632226" y2="0.26228574" id="gradient_1">
+      <stop offset="0%" stop-color="#F2F2F2" />
+      <stop offset="100%" stop-color="#CFCFCF" />
+    </linearGradient>
+    <linearGradient x1="0.29544756" y1="0.3219291" x2="0.87476295" y2="0.82647026" id="gradient_2">
+      <stop offset="2%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <g id="cloudy">
+    <path d="M97.2081 2.1492e-06C81.1327 -0.00505414 66.3745 8.91192 58.8652 23.1669C46.4721 15.8999 30.867 17.201 19.8406 26.4206C8.81411 35.6403 4.73094 50.8013 9.62951 64.3348C14.5281 77.8683 27.3578 86.8719 41.7138 86.8509L97.2081 87C121.163 87 140.582 67.5244 140.582 43.5C140.582 19.4756 121.163 2.50719e-06 97.2081 2.1492e-06Z" id="Path" fill="url(#gradient_1)" stroke="none" />
+    <path d="M51.2593 85.7478C69.4177 80.6706 80.0253 61.8231 74.952 43.6508C69.8786 25.4785 51.0455 14.8629 32.8871 19.9401C14.7286 25.0173 4.12108 43.8648 9.19442 62.0371C14.2678 80.2094 33.1009 90.825 51.2593 85.7478Z" id="Oval" fill="url(#gradient_2)" stroke="none" />
+  </g>
+</svg>
