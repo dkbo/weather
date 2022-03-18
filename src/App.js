@@ -182,7 +182,6 @@ function App() {
   }
   // 紀錄選取的 key 值
   function onSelectChange(selectedRowKeys) {
-    console.log(selectedRowKeys);
     setRowKeys(selectedRowKeys)
   }
   // 詳情
