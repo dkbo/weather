@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/weather/static/css/main.f204ee56.css",
-    "main.js": "/weather/static/js/main.c65731ed.js",
+    "main.js": "/weather/static/js/main.eff0e125.js",
     "static/js/787.f822fef4.chunk.js": "/weather/static/js/787.f822fef4.chunk.js",
     "static/media/day-snowing.svg": "/weather/static/media/day-snowing.9fea59ca6fc35124926e5bd62b15a282.svg",
     "static/media/night-snowing.svg": "/weather/static/media/night-snowing.f5aef8597310cf973eed3a1c181ac2ee.svg",
@@ -21,11 +21,11 @@
     "static/media/night-clear.svg": "/weather/static/media/night-clear.43036aadf9d7348f5b8536e8111f9c57.svg",
     "index.html": "/weather/index.html",
     "main.f204ee56.css.map": "/weather/static/css/main.f204ee56.css.map",
-    "main.c65731ed.js.map": "/weather/static/js/main.c65731ed.js.map",
+    "main.eff0e125.js.map": "/weather/static/js/main.eff0e125.js.map",
     "787.f822fef4.chunk.js.map": "/weather/static/js/787.f822fef4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f204ee56.css",
-    "static/js/main.c65731ed.js"
+    "static/js/main.eff0e125.js"
   ]
 }

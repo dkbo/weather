@@ -98,12 +98,13 @@ function App() {
       } = data
       const arr = []
       const cityObj = {}
-      location.forEach(({ parameter, time: { obsTime }, weatherElement }, i) => {
+      let i = 0
+      location.forEach(({ parameter, time: { obsTime }, weatherElement }) => {
         if (+weatherElement[20].elementValue === -99) {
           return
         }
         const obj = {
-          key: i,
+          key: i++,
           city: parameter[0].parameterValue,
           area: parameter[2].parameterValue,
           date: obsTime,
@@ -181,6 +182,7 @@ function App() {
   }
   // 紀錄選取的 key 值
   function onSelectChange(selectedRowKeys) {
+    console.log(selectedRowKeys);
     setRowKeys(selectedRowKeys)
   }
   // 詳情
@@ -194,13 +196,13 @@ function App() {
   function exportCSV() {
     if (selectedRowKeys.length) {
       const fileName = 'download.csv'
-      const csvData = `${columns
+      const csvData = `${tableColumns
         .filter(({ title }) => title)
         .map(({ title }) => title)
         .join(',')}\r\n${selectedRowKeys
-        .map(keys => dataList[keys])
+        .map(keys => dataList[+keys])
         .map(
-          ({ city, area, date, weather, temp, wdsd }) => `${city},${area},${date},${weather},${temp},${wdsd}`
+          ({ city, area, date, weather, temp, wdsd } = {}) => `${city},${area},${date},${weather},${temp},${wdsd}`
         )
         .join('\r\n')}`
       const blob = new Blob(['\ufeff' + csvData], {
